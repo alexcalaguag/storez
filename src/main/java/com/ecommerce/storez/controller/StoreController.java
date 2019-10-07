@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ecommerce.storez.model.Pedido;
-import com.ecommerce.storez.repository.PedidoRepository;
 import com.ecommerce.storez.service.PedidoService;
 
 @RestController
